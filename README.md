@@ -28,7 +28,7 @@ A modern, responsive web application for tracking personal finances built with N
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-finance-tracker.git
+   git clone (https://github.com/Karthishkm/PersonalFinancetracker.git)
    ```
 
 2. Install dependencies:
