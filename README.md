@@ -46,7 +46,7 @@
 
 1. **Clone and Install**
    ```bash
-   git clone https://github.com/yourusername/fintrack.git
+   git clone https://github.com/Karthishkm/PersonalFinancetracker.git
    cd fintrack
    npm install
    ```
